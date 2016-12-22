@@ -2,7 +2,7 @@
 
 This repository demonstrates mirroring between different GIT hosts.
 
-Source: [Gitlaba](https://gitlab.com/jdeathe/mirror-test)
+Source: [Gitlab](https://gitlab.com/jdeathe/mirror-test)
 
 Shared: [Github](https://github.com/jdeathe/mirror-test)
 
